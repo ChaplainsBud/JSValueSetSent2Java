@@ -18,3 +18,13 @@ public class HomeController {
         return "confirm";
     }
 }
+
+// "login" -> name of input
+// String is data type
+// login is the particular String?
+// Model is class; model is object ...
+// model.addAttribute(variable, ... the value is login,
+// In other words, we request the parameter of an input,
+// identify it by name, identify the data type, ...
+// not sure what login is, but we need a Model/model
+// to put that login into the var "loginval"
